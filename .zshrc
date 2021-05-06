@@ -1,4 +1,5 @@
 source $ZSH/oh-my-zsh.sh
+ZSH_THEME="cypher"
 
 alias expoclean='sudo rm -r /tmp/metro-cache/'
 alias py3="python3"
